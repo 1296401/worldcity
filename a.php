@@ -563,7 +563,7 @@ fclose($myfile);
  <div class="footer">
  Copyright &copy; WorldCity.com <br>
 
- visit also:<a href="https://IndianTourism.com">Indian Toursm</a><br><a href="https://irctc.in">Indian Railways</a><br><h4>This Website is Completely Authorised by Mr.ROSHAN JHA</h4>
+ visit also:<a href="https://IndianTourism.com">Indian Tourouesm</a><br><a href="https://irctc.in">Indian Railways</a><br><h4>This Website is Completely Authorised by Mr.ROSHAN JHA</h4>
 
 
 </div>
